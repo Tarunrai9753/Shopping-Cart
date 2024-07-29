@@ -1,0 +1,24 @@
+
+.disflex {
+  
+  margin-top: 10px;
+  display: flex;
+  gap: 2px;
+}
+
+button {
+  font-size: larger;
+}
+.hovcolor:hover {
+  background-color: rgb(165, 212, 165);
+}
+.price {
+  margin-top: 10px;
+  font-size: larger;
+  font-weight: 600;
+}
+
+
+.active{
+  background-color: #198754 !important;
+}

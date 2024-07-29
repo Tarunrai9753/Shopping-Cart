@@ -1,0 +1,13 @@
+.para{
+  font-weight: 500;
+ border-radius: 50%;
+ position: absolute;
+ margin-left: 35px;
+}
+.bgnav{
+background-color: #b6b6b6;
+}
+
+.bgclrnav{
+  background-color: #7a7878;
+}

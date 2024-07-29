@@ -1,0 +1,9 @@
+.imgg{
+  height: 250px;
+  width: 250px;
+}
+
+.place{
+  place-content:center;
+  margin-top: 10%;
+}
